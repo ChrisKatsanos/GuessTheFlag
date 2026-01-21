@@ -59,11 +59,12 @@ Example:
    git clone https://github.com/your-username/your-repo-name.git
 
 2.Go into the folder:
-  ```bash
-  cd your-repo-name
+
+cd your-repo-name
+
 
 3.Run the game:
-  ```bash
-  python main.py
+
+python main.py
 
 4.Enjoy the game!!!
