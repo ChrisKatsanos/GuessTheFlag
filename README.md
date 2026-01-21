@@ -52,14 +52,16 @@ Example:
 
 ---
 
- ▶️ How to Run
-1) Clone the repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-2) Go into the project folder
-cd your-repo-name
-3) Run the game
-python main.py
-4)Enjoy the game!!!
----
+## ▶️ How to Run
 
+```bash
+# 1) Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# 2) Go into the project folder
+cd your-repo-name
+
+# 3) Run the game
+python main.py
+
+# 4) Enjoy the game! 🎮
