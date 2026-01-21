@@ -54,17 +54,17 @@ Example:
 
 ## ▶️ How to Run
 
-1. Download or clone the repository:
+###1. Download or clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 
-2.Go into the folder:
+###2.Go into the folder:
 
 cd your-repo-name
 
 
-3.Run the game:
+###3.Run the game:
 
 python main.py
 
-4.Enjoy the game!!!
+###4.Enjoy the game!!!
